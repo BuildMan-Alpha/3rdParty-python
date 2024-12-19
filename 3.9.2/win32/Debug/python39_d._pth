@@ -1,0 +1,6 @@
+python39_d.zip
+.
+.\lib\site-packages
+
+# Uncomment to run site.main() automatically
+#import site
